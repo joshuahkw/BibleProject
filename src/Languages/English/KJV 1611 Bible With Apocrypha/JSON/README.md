@@ -1,4 +1,5 @@
-# Bible-kjv-1611
+# Forked from Bible-kjv-1611
+Credits to: https://github.com/aruljohn 
 
 - This repository contains the original KJV 1611 Bible in JSON format.
 - There are 80 books. Each book is a separate JSON file.
